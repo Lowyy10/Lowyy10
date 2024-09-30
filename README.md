@@ -1,4 +1,2 @@
 ## Mi proyecto de I.A.W
-Mi proyecto va a ser hacer una aplicación web para la asignatura de I.A.W. La aplicación web va a tratar de agilizar las reservas de un restaurante Mexicano.
-<br>
-Para que los clientes puedan hacer sus reservas y realizar pedidos para recoger desde la web.
+Estudiante de ASIR, este va a ser el repositorio para la creación de mi proyecto para la asignatura de I.A.W.
